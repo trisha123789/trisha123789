@@ -1,16 +1,76 @@
 ## Hi there 👋
 
-<!--
-**trisha123789/trisha123789** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋, I'm YOUR Trisha</h1>
 
-Here are some ideas to get you started:
+<h3 align="center">
+🤖 Aspiring AI Engineer | Data Science • Machine Learning • Deep Learning • NLP
+</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+Turning data into intelligent systems 🚀
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=trisha123789&label=Profile%80Views&color=blueviolet&style=flat" />
+</p>
+
+---
+
+## 🌟 About Me
+
+🎯 I’m an **Aspiring AI Engineer** passionate about building smart, real-world AI systems.  
+I enjoy working at the intersection of **data, algorithms, and creativity**.
+
+- 🔬 Strong foundation in **Data Science, ML, Deep Learning & NLP**
+- 🌱 Currently learning **QuantumComputing**
+- 🧪 Love experimenting with **models, datasets & metrics**
+- 🤝 Open to collaboration on **AI/ML research & industry-grade projects**
+- 💬 Ask me about **ML, DL, NLP, Data Science**
+- 📫 Reach me at **nimmagaddatrishikesh@gmail.com**
+
+✨ **Fun Fact:**  
+> I don’t panic during bugs anymore. I call it “unexpected model behavior.” 🤖🔥
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+<a href="www.linkedin.com/in/trisha-nimmagadda-a947522a5/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+</p>
+
+---
+
+## 🛠️ Languages & Tools
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,html,css,js,pytorch,tensorflow,sklearn,opencv,git,mysql,mongodb,sqlite&perline=5" />
+</p>
+
+---
+
+
+## 📊 GitHub Analytics
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=trisha123789&show_icons=true&theme=tokyonight" height="160"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=trisha123789E&theme=tokyonight" height="160"/>
+</p>
+
+---
+
+---
+
+## 🧠 Current Focus
+
+- 🔄 Model Evaluation
+- ⚙️ Transformers 
+- 📈 Working with real-world datasets
+- 🧪 Building Real life systems
+
+---
+
+⭐ **If you like my work, consider starring my repositories — it motivates me to build more!**
+
