@@ -56,7 +56,7 @@ I enjoy working at the intersection of **data, algorithms, and creativity**.
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=trisha123789&show_icons=true&theme=tokyonight" height="160"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=trisha123789E&theme=tokyonight" height="160"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=trisha123789&theme=tokyonight" height="160"/>
 </p>
 
 ---
