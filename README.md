@@ -11,7 +11,7 @@ Turning data into intelligent systems 🚀
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=trisha123789&label=Profile%100Views&color=blueviolet&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=trisha123789&label=Profile%80Views&color=blueviolet&style=flat" />
 </p>
 
 ---
