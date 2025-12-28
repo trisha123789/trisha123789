@@ -53,14 +53,9 @@ I enjoy working at the intersection of **data, algorithms, and creativity**.
 
 
 ## 📊 GitHub Analytics
+
 <p align="center">
   <img src="https://img.shields.io/github/followers/trisha123789?style=for-the-badge" />
-  <img src="https://img.shields.io/github/stars/trisha123789?style=for-the-badge" />
-</p>
----
-<p align="center">
-  <img src="https://img.shields.io/github/followers/trisha123789?style=for-the-badge" />
-  <img src="https://img.shields.io/github/stars/trisha123789?style=for-the-badge" />
   <img src="https://img.shields.io/github/last-commit/trisha123789/trisha123789?style=for-the-badge" />
 </p>
 
