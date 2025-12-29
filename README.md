@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<h1 align="center">Hi 👋, I'm YOUR Trisha</h1>
+<h1 align="center">Hi 👋, I'm Trisha</h1>
 
 <h3 align="center">
 🤖 Aspiring AI Engineer | Data Science • Machine Learning • Deep Learning • NLP
